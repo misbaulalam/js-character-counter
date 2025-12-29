@@ -13,4 +13,4 @@ inp.addEventListener("input", function(evt){
         span.style.color= "whitesmoke"
     }
 
-})
+});
